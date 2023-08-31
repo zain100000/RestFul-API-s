@@ -1,0 +1,5 @@
+Start JSON Server
+
+json-server --watch apis.json
+json-server --host 0.0.0.0 apis.json
+http://192.168.0.108:3000/users
